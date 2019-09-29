@@ -1,0 +1,1 @@
+# Prediksi-Saham-Menggunakan-Algoritma-Regresi-Linear
